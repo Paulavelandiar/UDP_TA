@@ -1,0 +1,4 @@
+Sun Oct 20 20:59:16 COT 2019 
+Se va a enviar el archivo C:\Users\Sebastian\Documents\6to Semestre\Redes\Laboratorio3\UDP\UDP_TA\UDP_TA\Foto.jpg de tamano 307121 
+El tiempo de envio del archivo fue de :83 
+Sun Oct 20 20:59:20 COT 2019 

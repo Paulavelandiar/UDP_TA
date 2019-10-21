@@ -1,0 +1,38 @@
+Sun Oct 20 20:59:20 COT 2019 
+Solicite la conexión escribiendo 'Conexión'...
+Recibí confirmación del servidor
+He enviado notificación de que puedo recibir archivos
+El paquete numero 0 llego correctamente
+El paquete numero 1 llego correctamente
+El paquete numero 2 llego correctamente
+El paquete numero 3 llego correctamente
+El paquete numero 4 llego correctamente
+El paquete numero 5 llego correctamente
+El paquete numero 6 llego correctamente
+El paquete numero 7 llego correctamente
+El paquete numero 8 no llego correctamente
+El paquete numero 9 llego correctamente
+El paquete numero 10 llego correctamente
+El paquete numero 11 llego correctamente
+El paquete numero 12 llego correctamente
+El paquete numero 13 llego correctamente
+El paquete numero 14 llego correctamente
+El paquete numero 15 llego correctamente
+El paquete numero 16 llego correctamente
+El paquete numero 17 llego correctamente
+El paquete numero 18 llego correctamente
+El paquete numero 19 llego correctamente
+El paquete numero 20 llego correctamente
+El paquete numero 21 llego correctamente
+El paquete numero 22 llego correctamente
+El paquete numero 23 llego correctamente
+El paquete numero 24 llego correctamente
+El paquete numero 25 llego correctamente
+El paquete numero 26 llego correctamente
+El paquete numero 27 llego correctamente
+El paquete numero 28 llego correctamente
+El paquete numero 29 llego correctamente
+El paquete numero 30 llego correctamente
+El paquete numero 31 llego correctamente
+El tiempo de transferencia de archivos fue de 133
+El numero de paquetes perdidos fue de 6
